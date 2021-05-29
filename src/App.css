@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.myimg {
+  width: 600px;
+  height: 300px;
+}
+.add-to-cart img {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  cursor: pointer;
+  right: 1%;
+  top: 1%;
+}
